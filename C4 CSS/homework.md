@@ -32,6 +32,7 @@ body {
   margin: 20px;
 }
 ```
+
 ---
 
 </br >
@@ -41,7 +42,7 @@ body {
 Relaciona tu documento .css a tu documento .html. En el `<head>` de tu archivo HTML, agrega la siguiente línea para enlazar tu archivo CSS:
 
 ```html
-<link rel="stylesheet" type="text/css" href="styles.css">
+<link rel="stylesheet" type="text/css" href="styles.css" />
 ```
 
 ---
@@ -60,5 +61,5 @@ Abre tu archivo HTML. Si ves que el color de fondo del body y de las letras han 
 
 Aquí comenzarás a trabajar por tu cuenta, pero te damos algunos TIPs que te pueden servir:
 
-+ Recuerda determinar bien en qué momentos te conviene utilizar clases y cuándo id. Esto te ayudará a ordenar y unificar tus estilos.
-+ Recuerda que dar bordes y colores de fondo a tus elementos puede ser un buen truco para saber dónde están y qué tamaño ocupan al momento de posicionarlos. Luego puedes remover los estilos que no quieres que queden. 
+- Recuerda determinar bien en qué momentos te conviene utilizar clases y cuándo id. Esto te ayudará a ordenar y unificar tus estilos.
+- Recuerda que dar bordes y colores de fondo a tus elementos puede ser un buen truco para saber dónde están y qué tamaño ocupan al momento de posicionarlos. Luego puedes remover los estilos que no quieres que queden.
